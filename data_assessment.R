@@ -1,9 +1,17 @@
+# -----------------------------------------------------------------------------
+# Title: Summer 2019 Data Assessment
+# Author: Jacqueline Woo, jzw2108@columbia.edu
+# Date: 1/23/2019
+# R Version: 3.6.3
+# RStudio Version: 1.2.5033
+# -----------------------------------------------------------------------------
+
 rm(list=ls())
 library(dplyr)
 library(ggplot2)
 
 #set wd
-setwd("C:/Users/jacqw/Documents/Columbia/Internships-Jobs/Laterite Internship")
+setwd("C:/Users/jacqw/Documents/Columbia/Internships-Jobs/")
 ##load("geodistance.RData")
 
 #read data
